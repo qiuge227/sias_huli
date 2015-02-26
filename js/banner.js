@@ -1,0 +1,1 @@
+$.foucs({ direction: 'right' });
